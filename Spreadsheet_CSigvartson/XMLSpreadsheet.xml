@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Spreadsheet>
+  <cell name="A1">
+    <text>155</text>
+  </cell>
+  <cell name="A2">
+    <text>=A1</text>
+  </cell>
+  <cell name="A3">
+    <text>=A1+1005</text>
+  </cell>
+  <cell name="B4">
+    <bgcolor>4294934592</bgcolor>
+  </cell>
+  <cell name="B5">
+    <bgcolor>4294934592</bgcolor>
+  </cell>
+  <cell name="B6">
+    <bgcolor>4294934592</bgcolor>
+  </cell>
+  <cell name="A7">
+    <text>=A1/2</text>
+  </cell>
+  <cell name="A8">
+    <text>5</text>
+  </cell>
+  <cell name="B8">
+    <bgcolor>4278223040</bgcolor>
+  </cell>
+  <cell name="B9">
+    <bgcolor>4278223040</bgcolor>
+  </cell>
+</Spreadsheet>
